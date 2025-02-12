@@ -24,12 +24,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sajadev404&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
 
-## 📈 Streak Stats
-
-![GitHub Streak Stats](https://streak-stats.demolab.com/?user=Sajadev404&theme=radical)
-
-
-
 ## 📋 Top Lenguajes
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sajadev404&layout=compact&theme=radical)
