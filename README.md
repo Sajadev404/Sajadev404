@@ -22,24 +22,25 @@
 
 ## 📊 Estadísticas de GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sajadev404&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
 
 ## 📈 Streak Stats
 
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=tu_usuario&theme=radical)
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Sajadev404&theme=radical)
 
 ## 📋 Top Lenguajes
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sajadev404&layout=compact&theme=radical)
 
 ---
 
 ## 🏆 Trofeos de GitHub
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tu_usuario&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sajadev404&theme=radical)
 
 ---
 
 ## 🔝 Repositorio Más Contribuido
 
-[**Top Contributed Repo**](https://github.com/tu_usuario/tu_repositorio)
+[**Top Contributed Repo**](https://github.com/Sajadev404/tu_repositorio)
+
