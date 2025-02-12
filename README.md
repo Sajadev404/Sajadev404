@@ -1,6 +1,6 @@
 # 🚀 Bienvenida/o a mi perfil de GitHub
 
-¡Hola y bienvenid@ a mi perfil de GitHub! Soy **Full Stack Developer** con experiencia tanto en **frontend** como en **backend**. Apasionad@ del mundo de la programación, me encanta aplicar mi experiencia previa en el mundo del **diseño** al ámbito del **desarrollo web**. Siempre estudiando, siempre creando.
+¡Hola y bienvenid@ a mi perfil de GitHub! Soy **Full Stack Developer** con experiencia tanto en **frontend** como en **backend**. Apasionado del mundo de la programación, me encanta aplicar mi experiencia previa en el mundo del **diseño** al ámbito del **desarrollo web**. Siempre estudiando, siempre creando.
 
 **Redes:**  
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sajaking_sw) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-nicolas) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:empresasarn@gmail.com) 
