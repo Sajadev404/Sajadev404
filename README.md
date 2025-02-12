@@ -26,7 +26,7 @@
 
 ## 📈 Streak Stats
 
-![GitHub Streak Stats](https://streak-stats.demolab.com?user=Sajadev404&theme=radical)
+![GitHub Streak Stats](https://streak-stats.demolab.com/?user=Sajadev404&theme=radical)
 
 
 
