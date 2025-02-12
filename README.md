@@ -11,12 +11,12 @@
 
 ## 🚀 Habilidades Técnicas
 
-- **Frontend:** CSS3, HTML5, JavaScript, React, React Router, Next.js, TailwindCSS, Bootstrap, jQuery
-- **Backend:** Node.js, Python, MySQL, JWT
-- **Herramientas:** Git, GitHub, Docker, Postman
-- **Diseño:** Adobe Photoshop, Adobe Illustrator, Blender, Figma, SketchUp
+- **Frontend:** CSS3, HTML5, JavaScript, React, React Router, Bootstrap, jQuery
+- **Backend:** Python, MySQL, JWT
+- **Herramientas:** Git, GitHub, Postman
+- **Diseño:** Adobe Photoshop, Blender, Figma
 - **Despliegue:** Vercel, Render
-- **CMS:** WordPress
+
 
 ---
 
