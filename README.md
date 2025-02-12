@@ -38,6 +38,9 @@
 
 ## 🔝 Repositorio Más Contribuido
 
-[**Top Contributed Repo**](https://github-profile-repo.vercel.app/?username=Sajadev404&theme=radical)
+![](https://github-contributor-stats.vercel.app/api?username=Sajadev404&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Sajadev404&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
